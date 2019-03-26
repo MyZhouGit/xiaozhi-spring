@@ -1,7 +1,7 @@
-package na.ini;
+package com.xiaozhi.ini;
 
-import na.config.IocConfig;
-import na.config.MvcConfig;
+import com.xiaozhi.config.IocConfig;
+import com.xiaozhi.config.MvcConfig;
 import org.apache.log4j.Logger;
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

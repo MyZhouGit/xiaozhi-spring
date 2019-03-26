@@ -1,4 +1,4 @@
-package na.config.prop;
+package com.xiaozhi.config.prop;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
